@@ -1,0 +1,23 @@
+.rcorners {
+    border-radius: 40px;
+    border: 1px solid tomato;
+    padding: 10px;
+    width: 300px;
+    height: 1rf;
+    background-color: tomato;
+    list-style-type: none;
+    text-align: center;
+
+}
+.name{
+    background-color: white;
+    width: 100%;
+    height: 100px;
+    font-family: cursive;
+    font-weight: bolder ;
+    font-size: 400%;
+}
+
+.hello{
+    font-size: 3em;
+}
